@@ -29,5 +29,8 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=angular,spring,vim" />
 </div>
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1magdev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
