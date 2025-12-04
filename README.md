@@ -19,7 +19,7 @@
 </div>
 <h4> 📍 Tests: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=jest" />
+    <img src="https://skillicons.dev/icons?i=jest,junit" />
 </div>
 <h4> 📍 Others: </h4>
 <div align="left">
