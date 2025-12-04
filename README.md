@@ -7,7 +7,7 @@
 </div>
 <h4> 📍 Back-end: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,nest,php,java" />
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,spring-boot,express,nest,php,java" />
 </div>
 <h4> 📍 Database: </h4>
 <div align="left">
