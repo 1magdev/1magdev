@@ -11,7 +11,7 @@
 </div>
 <h4> 📍 Database: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=redis,postgresql,mongodb,mysql,sqlite,h2" />
 </div>
 <h4> 📍 Tools: </h4>
 <div align="left">
