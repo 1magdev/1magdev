@@ -7,11 +7,11 @@
 </div>
 <h4> 📍 Back-end: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs,spring-boot,express,nest,php,java" />
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,spring,express,nest,php,java" />
 </div>
 <h4> 📍 Database: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite" />
 </div>
 <h4> 📍 Tools: </h4>
 <div align="left">
