@@ -1,4 +1,17 @@
+## <center> ↳   𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜:
 
+
+<h3>· Duelo:</h4>
+
+🔗 <strong><a href="https://oduelo.com" target="_blank">Try Duelo</a></strong>
+<br/>
+
+<p>
+  Online multiplayer word game where players compete in real-time using Wordle-inspired mechanics. <br><br>
+  <strong>Tech stack:</strong> Docker, Traefik, PostgreSQL, TypeScript, NestJS, React, Redis, WebSocket
+</p>
+
+<hr>
 
 ## <center> ↳   𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
 <h4> 📍 Front-end: </h4>
