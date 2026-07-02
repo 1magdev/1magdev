@@ -3,7 +3,7 @@
 
 <h3>· Duelo:</h4>
 
-🔗 <strong><a href="https://oduelo.com" target="_blank">Try Duelo</a></strong>
+🔗 <strong><a href="https://oduelo.com" target="_blank">Check repository</a></strong>
 <br/>
 
 <p>
