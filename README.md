@@ -1,9 +1,9 @@
 ## <center> ↳   𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜:
 
 
-<h3>· Duelo:</h4>
+<h3>· Wordle Real-time PVP:</h4>
 
-🔗 <strong><a href="https://oduelo.com" target="_blank">Check repository</a></strong>
+🔗 <strong><a href="https://github.com/1magdev/wordle-pvp-online.git" target="_blank">Check repository</a></strong>
 <br/>
 
 <p>
